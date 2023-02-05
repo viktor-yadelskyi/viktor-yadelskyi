@@ -9,8 +9,7 @@
 ![NodeJs](https://img.shields.io/badge/-NODEJS-090909?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![SASS](https://img.shields.io/static/v1?label=&message=SASS&logo=sass)
-![Firabase](https://img.shields.io/static/v1?label=&message=FIREBASE&logo=firebase)
+
 ### ✉️ Mail me: yadelskyiviktor@gmail.com
 #
 > Talk is cheap. Show me the code. <br/>
